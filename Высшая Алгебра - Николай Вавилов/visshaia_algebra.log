@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.10)  16 JUN 2024 15:37
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.10)  17 JUN 2024 18:03
  restricted system commands enabled.
 **visshaia_algebra.tex
 (./visshaia_algebra.tex
@@ -1532,7 +1532,7 @@ Overfull \hbox (29.46103pt too wide) in paragraph at lines 300--320
 []   []   [] 
  []
 
-[8]) [9] (./visshaia_algebra.aux)
+[8] [9] [10]) [11] (./visshaia_algebra.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1544,28 +1544,28 @@ Package rerunfilecheck Warning: File `visshaia_algebra.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `visshaia_algebra.out':
-(rerunfilecheck)             Before: 055B093F15EE54C97E1C9FBD0E2419FD;3308
-(rerunfilecheck)             After:  BE15B739EE4A5F99008CEA298BD0BECC;3587.
+(rerunfilecheck)             Before: BE15B739EE4A5F99008CEA298BD0BECC;3587
+(rerunfilecheck)             After:  79A0F3DD9DE0D0250A057B65BB33C1E3;3595.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35715 strings out of 476447
+ 35720 strings out of 476447
  100000,1977958 words of node,token memory allocated
- 613 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 24 attribute, 59 glue_spec
-, 14 attribute_list, 2 write nodes
-   avail lists: 2:766,3:248,4:74,5:250,6:55,7:9679,8:43,9:464,10:25,11:1433
- 56677 multiletter control sequences out of 65536+600000
- 78 fonts using 35074775 bytes
- 105i,6n,105p,1198b,375s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 667 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 42 attribute, 59 glue_spec
+, 23 attribute_list, 2 write nodes
+   avail lists: 2:754,3:252,4:74,5:251,6:55,7:9679,8:43,9:534,10:25,11:1433
+ 56680 multiletter control sequences out of 65536+600000
+ 78 fonts using 35074707 bytes
+ 105i,7n,105p,1198b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/giorno/Library/Fonts/CambriaMath.ttc></Users/giorno/Library/Fonts/Cambri
 aMath.ttc></Users/giorno/Library/Fonts/LinLibertine_RB.otf></Users/giorno/Librar
 y/Fonts/LinLibertine_R.otf></Users/giorno/Library/Fonts/LinLibertine_RI.otf></us
 r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on visshaia_algebra.pdf (9 pages, 147184 bytes).
+Output written on visshaia_algebra.pdf (11 pages, 160072 bytes).
 
-PDF statistics: 180 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
- 48 named destinations out of 1000 (max. 131072)
- 152 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 193 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 131072)
+ 160 words of extra memory for PDF output out of 10000 (max. 100000000)
 
